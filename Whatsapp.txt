@@ -2,6 +2,7 @@ Whatsapp application
 
 Login Page
 Chat Page
-
+Last Seen Page
+Hiding the Last Seen Page
 Audio Page
 Video Page
