@@ -6,3 +6,5 @@ Last Seen Page
 Hiding the Last Seen Page
 Audio Page
 Video Page
+Added Video Call Feature
+Added Audio Call Feature
